@@ -1,0 +1,4 @@
+:webdriver => chrome
+:headless => false
+:statistics => true
+:execute_debug => true
